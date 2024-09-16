@@ -19,3 +19,5 @@ begin
        Write(a[i]:4);
     end;
 end.
+
+ЖОПАААА
